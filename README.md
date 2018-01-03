@@ -1,0 +1,2 @@
+# katalogStrani
+Katalog strani
