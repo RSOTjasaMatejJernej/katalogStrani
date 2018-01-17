@@ -9,11 +9,11 @@ public class Database {
     private static List<Stran> strans = new ArrayList<>();
 
     public static List<Stran> getStrans() {
-        Stran cus = new Stran();
+        /*Stran cus = new Stran();
         cus.setId("1");
         cus.setTitle("PingPong KluB");
         cus.setAbout("Za vse ki jih zanima odbijanje žogice z loparjem. Ni starostne omejitve. Več informacij na telefon.");
-        strans.add(cus);
+        strans.add(cus);*/
 
         return strans;
     }

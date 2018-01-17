@@ -10,7 +10,7 @@ spec:
         app: katalog-strani
     spec:
       containers:
-      - image: tjasaj/katalog-strani:0.01
+      - image: tjasaj/katalog-strani:0.02
         name: katalog-strani
         env:
           - name: KUMULUZEE_DISCOVERY_CLUSTER
